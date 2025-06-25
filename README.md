@@ -68,8 +68,6 @@ cd terms-and-conditions-summarizer
 ```
 ### ✅ 2. Backend Setup (FastAPI)
 ```bash
-Copy
-Edit
 cd backend
 python -m venv venv
 venv\Scripts\activate  # On Windows
